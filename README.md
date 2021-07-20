@@ -11,7 +11,7 @@
 <p>
 	<a align= "center" href="https://github.com/Piyal-Banik">
   		<img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Piyal-Banik&theme=cobalt&show_icons=true&count_private=true" />
-  		<img align="right" height="270px" width="350" src="https://cdn.pixabay.com/photo/2016/06/15/15/19/wizard-1459117_960_720.png" /> 
+  		<img align="right" height="720px" width="430px" src="https://cdn.pixabay.com/photo/2016/06/15/15/19/wizard-1459117_960_720.png" /> 
   	</a>
 </p>
 
@@ -20,7 +20,6 @@
 <br><br>
 <hr>
 
-<p align="left"> <a href="https://twitter.com/ishikakesarwan4" target="blank"><img src="https://img.shields.io/twitter/follow/ishikakesarwan4?logo=twitter&style=for-the-badge" alt="ishikakesarwan4" /></a> </p>
 <p>
 	<h3 align="center">Connect with me:</h3>
 	<p align="center">

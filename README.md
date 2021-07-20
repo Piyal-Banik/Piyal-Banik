@@ -15,10 +15,21 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Piyal-Banik&label=Profile%20views&color=0e75b6&style=flat" alt="Piyal-banik" /> </p>
 
 <p>
-<a align= "center" href="https://github.com/ishikkkkaaaa">
+<a align= "center" href="https://github.com/Piyal-Banik">
   <img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Piyal-Banik&theme=cobalt&show_icons=true&count_private=true" />
 
 </p>
 
+
+<br><br>
+<hr>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/PiyalBanik" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="Piyal Banik" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/piyalbanik" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Piyal Banik" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<hr>
 
 

@@ -1,7 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, I'm Piyal Banik</h1>
 
-<!--
-**Piyal-Banik/Piyal-Banik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Piyal-Banik&label=Profile%20views&color=0e75b6&style=flat" alt="Piyal-banik" /> </p>
+
+<p>
+<a align= "center" href="https://github.com/ishikkkkaaaa">
+  <img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Piyal-Banik&theme=cobalt&show_icons=true&count_private=true" />
+  <img align="right" height="270px" width="350" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
+
+</p>
 
 Here are some ideas to get you started:
 
@@ -13,4 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+

@@ -19,17 +19,21 @@
 <br><br>
 <hr>
 
-## Skills
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="TensorFlow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />]
+<p>
+	<h3 align="center">Skills</h3>
+	<p align="center">
+		<img align="center" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+		<img align="center" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+		<img align="center" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+		<img align="center" alt="TensorFlow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
+	</p>
 
 <p>
-	<h3 align="center">Connect with me:</h3>
+	<h3 align="center">Connect with me</h3>
 	<p align="center">
-	<a href="https://twitter.com/PiyalBanik" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="Piyal Banik" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
-	<a href="https://linkedin.com/in/piyalbanik" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Piyal Banik" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+		<a href="https://twitter.com/PiyalBanik" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="Piyal Banik" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+		<a href="https://linkedin.com/in/piyalbanik" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Piyal Banik" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+	</p>
 </p>
 
 <hr>

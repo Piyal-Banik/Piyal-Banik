@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Piyal Banik]  
+# 👋 Hi, I'm Piyal Banik
 
 ### 🚀 Data Scientist | AI Enthusiast | MLOps Practitioner  
 

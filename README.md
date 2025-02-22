@@ -17,7 +17,7 @@ I'm passionate about **Generative AI, Machine Learning, and MLOps**. I specializ
 ### 📫 Connect With Me  
 🔗 [LinkedIn](https://www.linkedin.com/in/piyalbanik/) 
 
-Let's collaborate on exciting AI and MLOps projects! 🚀
+Let's collaborate on exciting Machine Learning projects! 🚀
 
 
 

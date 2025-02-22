@@ -5,10 +5,10 @@
 I'm passionate about **Generative AI, Machine Learning, and MLOps**. I specialize in building scalable AI solutions, deploying ML models efficiently, and optimizing workflows for production.  
 
 ### 🛠️ Tech Stack  
-🔹**Languages**: Python, MySQL
-🔹**Libraries & Frameworks**: Pandas, NumPy, Matplotlib, Scikit-learn, Pytorch, Hugging Face, LangChain, LoRA
-🔹**ML & AI Techniques**: Natural Language Processing (NLP), Traditional Machine Learning, Generative AI
-🔹**Deployment & MLOps**: Github, Docker, CI/CD, Flask API, AWS
+🔹 **Languages**: Python, MySQL
+🔹 **Libraries & Frameworks**: Pandas, NumPy, Matplotlib, Scikit-learn, Pytorch, Hugging Face, LangChain, LoRA
+🔹 **ML & AI Techniques**: Natural Language Processing (NLP), Traditional Machine Learning, Generative AI
+🔹 **Deployment & MLOps**: Github, Docker, CI/CD, Flask API, AWS
 
 ### 📌 Interests  
 - Building and optimizing **Generative AI models**  
